@@ -1,7 +1,6 @@
-// For format details, see https://aka.ms/devcontainer.json. For config options, see the
-// README at: https://github.com/devcontainers/templates/tree/main/src/dotnet
+// For format details, see https://aka.ms/devcontainer.json. 
 {
-	"name": "TShock C# (.NET)",
+	"name": "TShock Plugin (.NET)",
 	"image": "mcr.microsoft.com/devcontainers/dotnet:2-9.0",
 	"features": {
 		"ghcr.io/devcontainers/features/dotnet:2": {
